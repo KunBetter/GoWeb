@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
-	GoWeb.Lol()
+	//GoWeb.Lol()
+	GoWeb.Img()
 }
